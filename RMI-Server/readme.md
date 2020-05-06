@@ -3,6 +3,7 @@ RMI Server
 Java Application to connect desktop client and REST API and updates desktop client every 15 seconds and alert the REST Api inside fire alarm monitoring system. 
 
 -----How to Run------------
+
 Method 1
 
 * Clone this folder and goto bin folder and run "start rmi registry" inside cmd
