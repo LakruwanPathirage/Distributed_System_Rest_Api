@@ -75,7 +75,7 @@ Java Application to connect desktop client and REST API and updates desktop clie
 
 ### Method 1
 
-*Then paste that "RMI_Server_Stub.class" to bin folder of RMI-Client
+*Paste that "RMI_Server_Stub.class" to bin folder of RMI-Client
 *Then run the RMI_Client.java
 
 ### Method 2
