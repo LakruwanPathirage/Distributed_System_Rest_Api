@@ -33,6 +33,7 @@ then run ` npm start` to start developemnt server
 # Sensor Emulator (sensor app)
 Java Application to simulate sensor behavior on fire alarm monitoring system
 
+## --- How to run ---
 to run the app goto out\artifacts\Sensor_Emulator_jar and open cmd then run this command
 * note: this jar file compiled from java11 jdk
 
@@ -41,6 +42,7 @@ to run the app goto out\artifacts\Sensor_Emulator_jar and open cmd then run this
 # Email and Sms Server (dummy)
 Java Application to simulate sensor behavior on fire alarm monitoring system
 
+## --- How to run ---
 to run the app goto binarries\ and open cmd then run this command
 * note: this jar file compiled from java11 jdk
 
