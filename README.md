@@ -30,7 +30,7 @@ then rest api sever is up and running
 run ` npm install ` command to install required node mudules
 then run ` npm start` to start developemnt server
 
-# sensor emulator (sensor app)
+# Sensor Emulator (sensor app)
 Java Application to simulate sensor behavior on fire alarm monitoring system
 
 to run the app goto out\artifacts\Sensor_Emulator_jar and open cmd then run this command
