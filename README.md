@@ -1,6 +1,6 @@
 
 # Setting Rest Api and Mongo DB
-	Setting Mongodb
+##	Setting Mongodb
 
 •	Download mongo db from https://www.mongodb.com/download-center/community
 •	Before install the mongo db go to  C drive in computer,create folder called “data”
