@@ -58,8 +58,11 @@ Java Application to connect desktop client and REST API and updates desktop clie
 ### Method 1
 
 *Clone this folder and goto bin folder and run `start rmi registry` inside cmd
+
 *Then run `rmic RMI_Server` command inside same bin folder to create server's stub file
+
 *Then paste that "RMI_Server_Stub.class" to bin folder of RMI-Client
+
 *Then run the RMI_Server.java
 
 ### Method 2
