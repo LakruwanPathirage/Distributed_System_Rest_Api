@@ -73,6 +73,8 @@ public class SendDataToApi {
                         "    \"floorNo\": "+sensor.getFloorNo()+",\r\n" +
                         "    \"roomNo\": "+sensor.getRoomNo()+",\r\n" +
                         "    \"smokelevel\":"+sensor.getSmokeValue()+",\r\n" +
+                        "    \"co2_Alert\":"+false+",\r\n" +
+                        "    \"smoke_Alert\":"+false+",\r\n" +
                         "    \"co2_level\": "+sensor.getCo2Value()+"" + "\n}";
 
         System.out.println(POST_PARAMS);
