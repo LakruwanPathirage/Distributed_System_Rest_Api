@@ -37,6 +37,19 @@ then run ` npm start` to start developemnt server
 
 
 
+RMI-Client
+
+Java Desktop Application to add,update,delete sensors.
+
+-----How to Run------------
+
+* to run the app go to binaries directory and open cmd then run this command.
+
+* note: this jar file compiled from java11 jdk
+
+## java -jar "RMI_Client.jar"
+
+Or clone this folder and run RMI_Client.java
 
 
 
