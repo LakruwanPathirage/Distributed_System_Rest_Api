@@ -66,6 +66,7 @@ Java Application to connect desktop client and REST API and updates desktop clie
 
 *to run the app goto binaries directory and open cmd then run this command.
 *note: this jar file compiled from java11 jdk
+
 #` java -jar "RMI-Server.jar ` 
 
 
@@ -76,10 +77,12 @@ Java Application to connect desktop client and REST API and updates desktop clie
 ### Method 1
 
 *Paste that "RMI_Server_Stub.class" to bin folder of RMI-Client
+
 *Then run the RMI_Client.java
 
 ### Method 2
 
 *to run the app goto binaries directory and open cmd then run this command.
 *note: this jar file compiled from java11 jdk
+
 #` java -jar "RMI_Client.jar ` 
