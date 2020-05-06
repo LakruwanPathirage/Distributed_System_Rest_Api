@@ -30,7 +30,6 @@ then rest api sever is up and running
 Step 2
 # Sensor Monitoring System
 
-# installing rest api
 
 # installling web app
 run ` npm install ` command to install required node mudules
