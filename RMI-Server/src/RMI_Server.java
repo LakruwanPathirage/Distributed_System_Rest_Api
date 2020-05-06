@@ -363,15 +363,4 @@ System.setProperty("java.security.policy", "file:allowall.policy");
 		 System.out.println("Server is running");
 	}
 
-	
-
-	
-
-
-	
-
-	
-
-	
-
 }
