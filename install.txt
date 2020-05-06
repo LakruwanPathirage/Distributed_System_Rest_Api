@@ -1,6 +1,5 @@
 
-Step 1
-Setting Rest Api and Mongo DB
+# Setting Rest Api and Mongo DB
 	Setting Mongodb
 
 •	Download mongo db from https://www.mongodb.com/download-center/community
@@ -11,30 +10,39 @@ Open command prompt in bin folder and type , mongod in the prompt
 •	Open another  command prompt in bin folder and type , mongo  in the prompt,the you can see mongo db is up and running
 
 
-	Setting Rest Api server
+#	Setting Rest Api server
 
 •	Find the folder called “Rest-api” and open it with the IDE
 •	Open that folder in the  command prompt
 Ex: C:\Users\Sumudu Lakruwan\Desktop\Rest-api
 •	type in the command prompt,
-npm install
+` npm install `
 
 then you will download node modules
 
 •	Finally type the below command in the   command prompt
-    node index.js
+    ` node index.js `
 then rest api sever is up and running
  
-
-
-Step 2
-# Sensor Monitoring System
-
+# Sensor web Monitoring System (web client)
 
 # installling web app
 run ` npm install ` command to install required node mudules
 then run ` npm start` to start developemnt server
 
+#sensor emulator (sensor app)
+Java Application to simulate sensor behavior on fire alarm monitoring system
+
+to run the app goto out\artifacts\Sensor_Emulator_jar and open cmd then run this command
+
+` java -jar "Sensor Emulator.jar" `
+
+#Email and Sms Server (dummy)
+Java Application to simulate sensor behavior on fire alarm monitoring system
+
+to run the app goto binarries\ and open cmd then run this command
+
+` java -jar "Email and SMS Server dummy.jar.jar"
 
 
 RMI-Client
