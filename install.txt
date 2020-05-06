@@ -1,0 +1,43 @@
+
+Step 1
+Setting Rest Api and Mongo DB
+	Setting Mongodb
+
+•	Download mongo db from https://www.mongodb.com/download-center/community
+•	Before install the mongo db go to  C drive in computer,create folder called “data”
+•	Go inside the data folder and create a  folder called “db”
+•	Go to bin folder where  mongodb installed under “C:\Program Files\MongoDB\Server\4.2\bin”
+Open command prompt in bin folder and type , mongod in the prompt
+•	Open another  command prompt in bin folder and type , mongo  in the prompt,the you can see mongo db is up and running
+
+
+	Setting Rest Api server
+
+•	Find the folder called “Rest-api” and open it with the IDE
+•	Open that folder in the  command prompt
+Ex: C:\Users\Sumudu Lakruwan\Desktop\Rest-api
+•	type in the command prompt,
+npm install
+
+then you will download node modules
+
+•	Finally type the below command in the   command prompt
+    node index.js
+then rest api sever is up and running
+ 
+
+
+Step 2
+# Sensor Monitoring System
+
+# installing rest api
+
+# installling web app
+run ` npm install ` command to install required node mudules
+then run ` npm start` to start developemnt server
+
+
+
+
+
+
